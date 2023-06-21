@@ -1,9 +1,9 @@
 //importing node module and packages
 const fs = require('fs');
 const inquirer = require('inquirer');
-const Manager = require("./lib/manager");
-const Engineer = require('./lib/engineer');
-const Intern = require('./lib/intern');
+const Manager = require("./lib/Manager");
+const Engineer = require('./lib/Engineer');
+const Intern = require('./lib/Intern');
 const generateHTML = require('./src/generateHTML');
 
 const teamMembers = [];
