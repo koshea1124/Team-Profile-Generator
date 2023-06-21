@@ -72,9 +72,10 @@ To start the program, go to the project directory and initiate it with the comma
 Once you finish, locate your newly created team HTML profile in the 'dist' subdirectory.
 
 ##  Demonstration
-Link to youTube video: 
+Link to youTube video: https://youtu.be/bhxHLyko9r8
 
 ##  Screenshot
+![image](https://github.com/koshea1124/Team-Profile-Generator/assets/119077249/fae2c3ce-2bac-4415-82a1-65f6a35a1d5e)
 
 ##  Contributing
 Please reach out via email or thru GitHub if you have any suggestions for imporovement
