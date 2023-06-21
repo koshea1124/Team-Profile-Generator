@@ -12,6 +12,12 @@ a:hover{
     text-decoration: underline;
 }
 
+.navbar-brand {
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+}
+
 ul{
     list-style: none;
 }
